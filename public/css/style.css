@@ -1,0 +1,16 @@
+body{
+    background-color: grey;
+}
+.done{
+    text-decoration: line-through;
+    color: red;
+}
+.bi-trash:hover{
+    color:red;
+}
+.bi-pencil-square:hover{
+    color: blue;
+}
+ul li{
+    margin-bottom: 15px;
+}
